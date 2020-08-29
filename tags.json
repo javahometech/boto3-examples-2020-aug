@@ -1,0 +1,16 @@
+{
+    "Tags":[
+        {
+            "Key": "Department",
+            "Value": "Training"
+        },
+        {
+            "Key": "Location",
+            "Value": "Banglore"
+        },
+        {
+            "Key": "CostCenter",
+            "Value": "JHBLR1978"
+        }
+    ]
+}
